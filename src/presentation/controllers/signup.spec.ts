@@ -1,5 +1,5 @@
-import { SignUpController } from "./signup";
 import { MissingParamError } from "../errors/missing-params-error";
+import { SignUpController } from "./signup";
 
 describe("SignUp Controller ", () => {
   //verified name
